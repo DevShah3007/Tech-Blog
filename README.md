@@ -2,7 +2,7 @@ Built and Deployed a **fully responsive** Modern Blog App with **advanced** comm
 
 Used **GraphyQL** as a **query language** to fetch required data from backend.
 
-
+## HomePage
 **<ins>Home Page with featured posts, category filter and recent posts</ins>**-
 
 ![homepage1](https://user-images.githubusercontent.com/93613771/177631985-e574dcad-d5eb-4ebb-bcaf-344e3f696681.png)
@@ -10,7 +10,7 @@ Used **GraphyQL** as a **query language** to fetch required data from backend.
 ![homepage2](https://user-images.githubusercontent.com/93613771/177632006-fcfacf00-7c11-4f24-bf34-9439f1b195cd.png)
 
 
-
+## Blog Page
 
 **<ins>Blog Page with Name of Author, Date of Creation and Related Posts</ins>**-
 
@@ -29,7 +29,7 @@ Used **GraphyQL** as a **query language** to fetch required data from backend.
 ![blogPage4](https://user-images.githubusercontent.com/93613771/177632079-7978b2e3-85c4-4edc-b27c-d563e20a5c32.png)
 
 
-
+## Category
 
 **<ins>Filter by Category feature</ins>**-
 
